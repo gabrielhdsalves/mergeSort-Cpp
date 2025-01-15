@@ -43,4 +43,5 @@ Você pode modificar o programa para alterar a entrada de dados, como permitir a
 
 Considerações Finais
 Complexidade: O MergeSort tem complexidade de tempo O(nlogn), o que o torna bastante eficiente para grandes conjuntos de dados.
+
 Estabilidade: O MergeSort é um algoritmo de ordenação estável, ou seja, ele mantém a ordem relativa de elementos com valores iguais.
